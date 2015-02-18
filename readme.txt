@@ -18,7 +18,7 @@ Accept PayPal payments in WordPress
 
 * Create PayPal buttons on the fly in a post/page using shortcodes
 * Accept once off payments or recurring payments
-* Accept donations from uses
+* Accept donations from users
 * Allow users to add multiple items to the shopping cart and checkout
 * Manage orders received via PayPal buttons from your WordPrss admin dashboard
 * Quick settings configurations
