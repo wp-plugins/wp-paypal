@@ -12,7 +12,7 @@ Accept PayPal payments in WordPress
 
 == Description ==
 
-[WP PayPal](http://wphowto.net/wordpress-paypal-plugin) plugin allows you to easily create PayPal Buy Now, Add to Cart, Donation or Subscription type buttons. It generates dynamic buttons using shortcodes that enable PayPal checkout on your WordPress site.
+[WP PayPal](http://wphowto.net/wordpress-paypal-plugin-732) plugin allows you to easily create PayPal Buy Now, Add to Cart, Donation or Subscription type buttons. It generates dynamic buttons using shortcodes that enable PayPal checkout on your WordPress site.
 
 = Features =
 
@@ -74,7 +74,7 @@ You can use additional parameters to customize your PayPal buttons.
 * **tax** - Transaction-based tax override variable (e.g. tax="2.99").
 * **locale** - The desired locale of the PayPal site (e.g. locale="GB"). This feature is useful if you want to render the payment page in a specific language.
 
-For detailed documentation please check out the [WP PayPal Plugin](http://wphowto.net/wordpress-paypal-plugin) page.
+For detailed documentation please check out the [WP PayPal Plugin](http://wphowto.net/wordpress-paypal-plugin-732) page.
 
 == Installation ==
 
