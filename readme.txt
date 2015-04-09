@@ -73,6 +73,7 @@ You can use additional parameters to customize your PayPal buttons.
 * **shipping** - The cost of shipping this item. (e.g. shipping="0.75").
 * **tax** - Transaction-based tax override variable (e.g. tax="2.99").
 * **locale** - The desired locale of the PayPal site (e.g. locale="GB"). This feature is useful if you want to render the payment page in a specific language.
+* **return** - The URL where the user will be redirected to after the payment (e.g. return="http://example.com/thank-you").
 
 For detailed documentation please check out the [WP PayPal Plugin](http://wphowto.net/wordpress-paypal-plugin-732) page.
 
