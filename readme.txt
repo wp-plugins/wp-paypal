@@ -8,7 +8,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Accept PayPal payments in WordPress
+Easily accept payments in WordPress by adding PayPal buttons to your website
 
 == Description ==
 
