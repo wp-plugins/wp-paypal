@@ -58,7 +58,7 @@ Donation buttons let you accept donations from your users.
 
 Subscribe buttons let you set up payment subscriptions. 
 
-`[wp_paypal button="subscribe" name="My product" amount="1.00" recurrence="4" period="M"]`
+`[wp_paypal button="subscribe" name="My product" amount="1.00" recurrence="1" period="M" src="1"]`
 
 = Button Parameters =
 
