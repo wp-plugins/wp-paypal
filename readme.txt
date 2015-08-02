@@ -1,4 +1,4 @@
-=== WordPress PayPal ===
+=== PayPal Button for WordPress ===
 Contributors: naa986
 Donate link: http://wphowto.net/
 Tags: paypal, button, e-commerce, ecommerce, commerce, sell, sales, shipping, shop, shopping, store, tax, wordpress ecommerce, cart, checkout, donation, donations, payment, subscription, subscriptions
@@ -12,10 +12,11 @@ Easily accept payments in WordPress by adding PayPal buttons to your website
 
 == Description ==
 
-[WP PayPal](http://wphowto.net/wordpress-paypal-plugin-732) plugin allows you to easily create PayPal Buy Now, Add to Cart, Donation or Subscription type buttons. It generates dynamic buttons using shortcodes that enable PayPal checkout on your WordPress site.
+[PayPal Button](http://wphowto.net/wordpress-paypal-plugin-732) plugin allows you to easily create PayPal Buy Now, Add to Cart, Donation or Subscription type buttons. It generates dynamic buttons using shortcodes that enable PayPal checkout on your WordPress site.
 
 = Features =
 
+* Sell products or services using PayPal
 * Create PayPal buttons on the fly in a post/page using shortcodes
 * Accept once off payments or recurring payments
 * Accept donations from users
@@ -76,6 +77,11 @@ You can use additional parameters to customize your PayPal buttons.
 * **return** - The URL where the user will be redirected to after the payment (e.g. return="http://example.com/thank-you").
 
 For detailed documentation please check out the [WP PayPal Plugin](http://wphowto.net/wordpress-paypal-plugin-732) page.
+
+= Additional Documentation =
+
+* [Add automatic discount to a buy button](http://wphowto.net/applying-discount-to-a-paypal-buy-button-in-wordpress-834)
+* [Subscriptions & Recurring Payments Setup](http://wphowto.net/how-to-create-a-paypal-subscription-button-in-wordpress-911)
 
 == Installation ==
 
